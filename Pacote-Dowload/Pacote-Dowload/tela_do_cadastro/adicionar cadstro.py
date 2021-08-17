@@ -2,8 +2,6 @@ from tkinter import *
 import codigo
 import verificação_de_conta
 import mysql.connector
-import os
-os.system(r"start D:\Git-e-GitHub\Cadastro\Pacote-Dowload\wamp64\wampmanager")
 cnx = mysql.connector.connect(user="root", password="", host="127.0.0.1")
 mcursor = cnx.cursor()
 a = 0
