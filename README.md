@@ -1,2 +1,5 @@
 # Cadastro
- Tela de Login-Wampserver-Outlook
+## Uso De:
+ - Python
+ - Wampserver
+ - Outlook
