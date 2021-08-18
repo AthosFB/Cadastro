@@ -1,5 +1,5 @@
 # Cadastro
 ## Uso De:
- - Python
- - Wampserver
- - Outlook
+ - *Python*
+ - *Wampserver*
+ - *Outlook*
